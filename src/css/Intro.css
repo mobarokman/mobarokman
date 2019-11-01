@@ -1,0 +1,16 @@
+.intro{
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.intro-des{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.introPic{
+    height: 300px;
+    width: 500px;
+}
+

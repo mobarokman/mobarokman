@@ -1,0 +1,26 @@
+
+/* map */
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:400px;
+    width:400px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:400px;
+    width:400px;
+}
+.footer-title{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.address-data{
+    font-size: 15pt;
+}
+.email-margin{
+    margin-left: 48px;
+}
