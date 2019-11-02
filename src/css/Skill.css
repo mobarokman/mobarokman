@@ -1,0 +1,84 @@
+.laravel-h, .react-h, .jquery-h, .php-h, .python-h, .ccpp-h, .csharp-h, .android-h, .photoshop-h, .git-h{
+    height: 20px;
+    background-color: #d6d6d6;
+}
+.laravel-w{width: 20%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.react-w{width: 20%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.jquery-w{width: 50%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.php-w{width: 60%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.python-w{width: 20%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.ccpp-w{width: 30%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.csharp-w{width: 15%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.android-w{width: 20%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.photoshop-w{width: 40%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+.git-w{width: 30%;
+    background-color: #cf1ae7d0;
+    font-size: 11pt;
+    font-style: italic;
+    font-family: cursive;
+}
+
+
+.skill-name{
+    font-size: 14pt;
+    font-style: italic;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: cursive;
+    
+}
+.badge-danger{
+    background-color: #f76c67;
+}
+.compo-title{
+    font-size: 30pt;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

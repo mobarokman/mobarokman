@@ -1,0 +1,36 @@
+
+.jumbotron{
+    background-color: rgb(240, 240, 198);
+}
+.ppControl{
+    height: 220px;
+    width: 220px;
+    position: relative;
+    align-content: center;
+  
+}
+.intro{
+    text-align: center;
+}
+.bor{
+    border-style:  double double none; 
+    border-width: 10px;
+    border-color: #6e6d6d;
+    padding: 4px;
+  
+}
+.intro-title{
+    text-align: center;
+    font-size: 3rem;
+}
+.intro-des{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+.introPic{
+    height: 300px;
+    width: 500px;
+}
+
